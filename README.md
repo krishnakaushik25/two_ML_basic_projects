@@ -144,5 +144,7 @@ The accuracy score obtained was 0.98.
 ***References:***                                                          
 [Shivam Bansal's Blog](https://www.kaggle.com/shivamb/semi-supervised-classification-using-autoencoders)
 
+## Support 
 
+If you like this repo and find it useful, please consider (★) starring it (on top right of the page) so that it can reach a broader audience.
 
